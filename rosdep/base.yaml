@@ -1,0 +1,4 @@
+flight-algorithms:
+  ubuntu: [air-flight-algorithms]
+libmavsdk:
+  ubuntu: [libmavsdk-dev]
