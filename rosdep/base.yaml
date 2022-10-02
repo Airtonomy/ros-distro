@@ -2,3 +2,6 @@ flight-algorithms:
   ubuntu: [air-flight-algorithms]
 libmavsdk:
   ubuntu: [libmavsdk-dev]
+flight_sdk_ros:
+  ubuntu: [ros-noetic-flight-sdk-ros]
+  
