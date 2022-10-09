@@ -4,4 +4,5 @@ libmavsdk:
   ubuntu: [libmavsdk-dev]
 flight_sdk_ros:
   ubuntu: [ros-noetic-flight-sdk-ros]
-  
+flight_example:
+  ubuntu: [ros-noetic-flight-example]
