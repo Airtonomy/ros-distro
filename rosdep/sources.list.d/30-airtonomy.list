@@ -1,2 +1,2 @@
 # generic
-yaml https://raw.githubusercontent.com/Airtonomy/ros-distro/25/flight-example/rosdep/base.yaml
+yaml https://raw.githubusercontent.com/Airtonomy/rosdistro/main/rosdep/base.yaml
