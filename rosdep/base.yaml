@@ -8,3 +8,5 @@ flight_sdk_ros:
   ubuntu: [ros-noetic-flight-sdk-ros]
 libmavsdk:
   ubuntu: [libmavsdk-dev]
+onboardsdk:
+  ubuntu: [onboardsdk]
