@@ -1,10 +1,10 @@
-flight-algorithms:
-  ubuntu: [air-flight-algorithms]
-libmavsdk:
-  ubuntu: [libmavsdk-dev]
-flight_sdk_ros:
-  ubuntu: [ros-noetic-flight-sdk-ros]
-flight_example:
-  ubuntu: [ros-noetic-flight-example]
 diri_ros:
   ubuntu: [ros-noetic-diri-ros]
+flight-algorithms:
+  ubuntu: [air-flight-algorithms]
+flight_example:
+  ubuntu: [ros-noetic-flight-example]
+flight_sdk_ros:
+  ubuntu: [ros-noetic-flight-sdk-ros]
+libmavsdk:
+  ubuntu: [libmavsdk-dev]
