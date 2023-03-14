@@ -1,3 +1,3 @@
 # generic
 yaml https://raw.githubusercontent.com/Airtonomy/rosdistro/main/rosdep/base.yaml
-yaml https://raw.githubusercontent.com/ros/rosdistro/main/rosdep/python.yaml
+yaml https://raw.githubusercontent.com/Airtonomy/rosdistro/main/rosdep/python.yaml
