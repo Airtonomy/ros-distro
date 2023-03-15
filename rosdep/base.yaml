@@ -12,3 +12,5 @@ livox_ros_driver:
   ubuntu: [ros-noetic-livox-ros-driver]
 onboardsdk:
   ubuntu: [onboardsdk]
+utm:
+  ubuntu: [python3-utm]
