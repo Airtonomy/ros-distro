@@ -14,3 +14,7 @@ onboardsdk:
   ubuntu: [onboardsdk]
 utm:
   ubuntu: [python3-utm]
+gmplot:
+  ubuntu: [python3-gmplot]
+simplekml:
+  ubuntu: [python3-simplekml]
