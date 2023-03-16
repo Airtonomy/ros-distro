@@ -18,3 +18,5 @@ gmplot:
   ubuntu: [python3-gmplot]
 simplekml:
   ubuntu: [python3-simplekml]
+flight-sdk:
+  ubuntu: [python3-flight-sdk]
