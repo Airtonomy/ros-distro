@@ -6,6 +6,8 @@ flight_example:
   ubuntu: [ros-noetic-flight-example]
 flight_sdk_ros:
   ubuntu: [ros-noetic-flight-sdk-ros]
+flight_sdk_ros_msgs:
+  ubuntu: [ros-noetic-flight-sdk-ros-msgs]
 libmavsdk:
   ubuntu: [libmavsdk-dev]
 livox_ros_driver:
