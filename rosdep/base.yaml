@@ -8,15 +8,15 @@ flight_sdk_ros:
   ubuntu: [ros-noetic-flight-sdk-ros]
 flight_sdk_ros_msgs:
   ubuntu: [ros-noetic-flight-sdk-ros-msgs]
+gmplot:
+  ubuntu: [python3-gmplot]
 libmavsdk:
   ubuntu: [libmavsdk-dev]
 livox_ros_driver:
   ubuntu: [ros-noetic-livox-ros-driver]
 onboardsdk:
   ubuntu: [onboardsdk]
-utm:
-  ubuntu: [python3-utm]
-gmplot:
-  ubuntu: [python3-gmplot]
 simplekml:
   ubuntu: [python3-simplekml]
+utm:
+  ubuntu: [python3-utm]
