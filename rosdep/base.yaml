@@ -8,6 +8,8 @@ flight_falcker_tanks:
   ubuntu: [ros-noetic-flight-falcker-tanks]
 flight_feature:
   ubuntu: [ros-noetic-flight-feature]
+flight_image_logger:
+  ubuntu: [ros-noetic-flight-image-logger]
 flight_manual:
   ubuntu: [ros-noetic-flight-manual]
 flight_sdk_ros:
