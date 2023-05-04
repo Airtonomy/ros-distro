@@ -28,3 +28,7 @@ simplekml:
   ubuntu: [python3-simplekml]
 utm:
   ubuntu: [python3-utm]
+pip-scipy:
+  ubuntu: 
+    pip:
+      packages: [scipy]
