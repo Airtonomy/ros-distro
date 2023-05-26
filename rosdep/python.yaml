@@ -1,0 +1,5 @@
+python-transitions:
+  ubuntu:
+    pip:
+      packages: [transitions]
+    
