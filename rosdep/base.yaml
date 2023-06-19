@@ -18,6 +18,8 @@ flight_sdk_ros_msgs:
   ubuntu: [ros-noetic-flight-sdk-ros-msgs]
 flight_wind_turbine:
   ubuntu: [ros-noetic-flight-wind-turbine]
+flight_simple_sim:
+  ubuntu: [ros-noetic-flight-simple-sim]
 gmplot:
   ubuntu: [python3-gmplot]
 libmavsdk:
