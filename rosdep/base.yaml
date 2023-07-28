@@ -1,3 +1,5 @@
+air-flight-algorithms:
+  ubuntu: [air-flight-algorithms]
 diri_ros:
   ubuntu: [ros-noetic-diri-ros]
 flight-algorithms:
