@@ -24,6 +24,8 @@ livox_ros_driver:
   ubuntu: [ros-noetic-livox-ros-driver]
 onboardsdk:
   ubuntu: [onboardsdk]
+payloadsdk:
+  ubuntu: [payloadsdk]
 simplekml:
   ubuntu: [python3-simplekml]
 utm:
