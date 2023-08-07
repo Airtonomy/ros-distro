@@ -1,3 +1,5 @@
+air-flight-algorithms:
+  ubuntu: [air-flight-algorithms]
 diri_ros:
   ubuntu: [ros-noetic-diri-ros]
 flight-algorithms:
@@ -16,6 +18,10 @@ flight_sdk_ros:
   ubuntu: [ros-noetic-flight-sdk-ros]
 flight_sdk_ros_msgs:
   ubuntu: [ros-noetic-flight-sdk-ros-msgs]
+flight_wind_turbine:
+  ubuntu: [ros-noetic-flight-wind-turbine]
+flight_simple_sim:
+  ubuntu: [ros-noetic-flight-simple-sim]
 gmplot:
   ubuntu: [python3-gmplot]
 libmavsdk:
@@ -26,6 +32,9 @@ onboardsdk:
   ubuntu: [onboardsdk]
 payloadsdk:
   ubuntu: [payloadsdk]
+python3-pymap3d:
+  ubuntu:
+    '*': [python3-pymap3d]
 simplekml:
   ubuntu: [python3-simplekml]
 utm:

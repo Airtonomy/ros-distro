@@ -1,0 +1,2 @@
+# thread specific libraries number 10 to precede 20-default.list that comes with ROS
+yaml https://raw.githubusercontent.com/Airtonomy/rosdistro/main/rosdep/base.yaml
