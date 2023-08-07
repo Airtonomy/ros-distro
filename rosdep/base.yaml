@@ -30,6 +30,8 @@ livox_ros_driver:
   ubuntu: [ros-noetic-livox-ros-driver]
 onboardsdk:
   ubuntu: [onboardsdk]
+payloadsdk:
+  ubuntu: [payloadsdk]
 python3-pymap3d:
   ubuntu:
     '*': [python3-pymap3d]
