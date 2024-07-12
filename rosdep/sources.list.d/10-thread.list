@@ -1,2 +1,2 @@
 # thread specific libraries number 10 to precede 20-default.list that comes with ROS
-yaml https://raw.githubusercontent.com/Airtonomy/rosdistro/ae/adding-fence-repo/rosdep/base.yaml 
+yaml https://raw.githubusercontent.com/Airtonomy/rosdistro/main/rosdep/base.yaml
