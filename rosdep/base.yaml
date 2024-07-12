@@ -8,6 +8,8 @@ flight_example:
   ubuntu: [ros-noetic-flight-example]
 flight_falcker_tanks:
   ubuntu: [ros-noetic-flight-falcker-tanks]
+flight_fence_perimeter:
+  ubuntu: [ros-noetic-flight-fence-perimeter]
 flight_feature:
   ubuntu: [ros-noetic-flight-feature]
 flight_image_logger:
