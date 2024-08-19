@@ -24,6 +24,8 @@ flight_wind_turbine:
   ubuntu: [ros-noetic-flight-wind-turbine]
 flight_simple_sim:
   ubuntu: [ros-noetic-flight-simple-sim]
+flight_simulation:
+  ubuntu: [ros-noetic-flight-simulation]
 gmplot:
   ubuntu: [python3-gmplot]
 libmavsdk:
