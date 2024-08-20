@@ -45,11 +45,3 @@ simplekml:
   ubuntu: [python3-simplekml]
 utm:
   ubuntu: [python3-utm]
-msgpack_rpc_python:
-  ubuntu:
-    pip:
-      packages: [msgpack-rpc-python]
-airsim:
-  ubuntu:
-    pip:
-      packages: [airsim]
