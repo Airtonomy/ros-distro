@@ -18,6 +18,8 @@ flight_manual:
   ubuntu: [ros-noetic-flight-manual]
 flight_sdk_ros:
   ubuntu: [ros-noetic-flight-sdk-ros]
+flight_sdk_ros_ndaa:
+  ubuntu: [ros-noetic-flight-sdk-ros-ndaa]
 flight_sdk_ros_msgs:
   ubuntu: [ros-noetic-flight-sdk-ros-msgs]
 flight_wind_turbine:
